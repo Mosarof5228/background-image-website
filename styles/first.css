@@ -1,0 +1,10 @@
+.pageTitle{
+    font-size: 40px;
+    border:6px solid green;
+    height:50px;
+    width:300px;
+    margin:auto;
+    text-align: center;
+    padding:5px;
+    color:orange;
+}
